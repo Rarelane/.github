@@ -1,6 +1,6 @@
 # Rarelane
 
-## Welcome to Rarelane's company profile. 
+## About Us
 
 Rarelane is a SaaS oriented company that equips SMEs with progressive software and technology for the future.
 
